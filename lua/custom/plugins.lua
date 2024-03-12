@@ -82,6 +82,14 @@ local plugins = {
   {
     'metakirby5/codi.vim',
     lazy = false,
+  },
+  {
+    'xiyaowong/transparent.nvim',
+    lazy= false
+  },
+  {
+    'xuhdev/vim-latex-live-preview',
+    lazy=false
   }
 }
 return plugins
